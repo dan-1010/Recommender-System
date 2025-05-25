@@ -28,7 +28,6 @@ This project is a semantic search-based book recommendation system built using [
 - Python  
 - [LangChain](https://www.langchain.com/)  
 - [Hugging Face Transformers](https://huggingface.co/)  
-- [FAISS](https://github.com/facebookresearch/faiss)  
 - [Gradio](https://gradio.app/)
 
 ## 📝 Setup Instructions
